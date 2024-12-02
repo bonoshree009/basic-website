@@ -36,9 +36,9 @@ nav li{
 /* header related style */
 .header {
     background-color: #FFF8F3;
-    background-image: url("../pictures/header_bg.png");
+    background-image: url("../pictures/header_bg.png") ,url('../pictures/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right,top left;
 
 }
 .banner{
